@@ -5,3 +5,4 @@ def position_taken?(array, index_number)
   else
     return true
 end
+end
